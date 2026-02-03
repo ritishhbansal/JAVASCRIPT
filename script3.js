@@ -1,5 +1,3 @@
-//filter
-
 let student = [
     { id: "001", name: "Aman", sports: "Cricket"},
     { id: "002", name: "Abhi", sports: "BasketBall"},
@@ -34,4 +32,5 @@ console.log(map);
 import { multiply } from "./script2.js";
 
 const result = multiply(2,4,5);
+
 console.log(result);
